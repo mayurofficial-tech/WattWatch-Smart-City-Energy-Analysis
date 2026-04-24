@@ -1,0 +1,16 @@
+ConsumerType,MeterID,EnergyConsumed_kwh
+Commercial,MTR4987,1195.80
+Commercial,MTR2580,1176.20
+Commercial,MTR3185,1147.20
+Commercial,MTR1749,1139.30
+Commercial,MTR4055,1138.60
+Industrial,MTR5347,2485.90
+Industrial,MTR1313,2470.90
+Industrial,MTR3992,2289.00
+Industrial,MTR4896,2286.10
+Industrial,MTR1174,2266.80
+Residential,MTR5888,404.50
+Residential,MTR2702,389.50
+Residential,MTR4717,379.00
+Residential,MTR4888,375.60
+Residential,MTR3830,374.20
