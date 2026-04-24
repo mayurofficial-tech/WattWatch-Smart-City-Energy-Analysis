@@ -1,3 +1,4 @@
+
 # ⚡ WattWatch: Analyzing Urban Energy Consumption for Smarter Cities
 
 ## 📸 Dashboard Preview
@@ -5,7 +6,7 @@
 > Add your dashboard screenshot here
 
 ```md
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview]<img width="1028" height="580" alt="Dashboard" src="https://github.com/user-attachments/assets/6029e8a6-332b-4b48-ab76-c976f1d993d6" />
 ```
 
 ## 📌 Project Overview
