@@ -5,7 +5,7 @@
 > Add your dashboard screenshot here
 
 ```md
-![Dashboard Preview](images/Dashboard.png)
+![Dashboard Preview](Images/dashboard.png)
 ```
 
 ## 📌 Project Overview
